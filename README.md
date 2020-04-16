@@ -12,14 +12,14 @@ pip install -r requirment.txt
 2. Emotion Detection Model: <a href="https://drive.google.com/file/d/1_EWcxfWPuUmc9kTLgLn6ZGLg0Da0NRWl/view?usp=sharing">Click here</a>
 
 ## 3. Files structure
-        +--action_recognition_kinetics.txt <br>
-        +--example_activities.mp4 <br>
-        +--haarcascade_frontalface_default.xml <br>
-        +--human_activity_reco.py <br>
-        +--human_activity_reco_deque.py <br>
-        +--model.h5 <br>
-        +--requirment.txt <br>
-        +--resnet-34_kinetics.onnx <br>
+        +--action_recognition_kinetics.txt 
+        +--example_activities.mp4 
+        +--haarcascade_frontalface_default.xml 
+        +--human_activity_reco.py 
+        +--human_activity_reco_deque.py 
+        +--model.h5 
+        +--requirment.txt 
+        +--resnet-34_kinetics.onnx 
       
  ## Run
  Open cmd and type <br>
