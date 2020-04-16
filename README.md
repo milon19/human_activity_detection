@@ -3,7 +3,7 @@
 
 ## 1. Install Dependency
 ```
-pip install -r requirment.txt
+pip install -r requirement.txt
 ```
 
 ## 2. Download require pre-trained models
